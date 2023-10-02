@@ -9,6 +9,8 @@ accountEmail = "sk@23.com"
 accountPassword3 = "57845"
 accountcity = "mumbai"
 
+
 console.log(accountId);
+
 
 console.table([accountId,accountEmail,accountPassword,accountcity,accountstate])
